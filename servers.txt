@@ -1,0 +1,5 @@
+198.41.0.4 (A.ROOT-SERVERS.NET)
+68.51.0.5 (ns01.gillst01.ar.comcast.net)
+66.218.71.63 (ns1.yahoo.com)
+151.164.64.201 (dns1.ltrkar.swbell.net)
+216.200.206.140 (ns1.hotmail.com)
